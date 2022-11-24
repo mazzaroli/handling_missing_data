@@ -1,6 +1,6 @@
 # handling_missing_data
 
-learn how to treat variables and run the proper imputation method for your dataset with KNN and MICE methods, donor-based methods, etc.
+learn how to treat variables and run the proper imputation method for your dataset with **KNN** and **MICE** methods, **donor-based methods**, etc.
   
 ## Installation guide
 
